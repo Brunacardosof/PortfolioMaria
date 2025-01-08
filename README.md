@@ -17,20 +17,20 @@ Access the portfolio here:n https://projetoportfolio-maria.netlify.app
 Contributions are always welcome! If you'd like to improve this project, follow the steps below:
 
 # Create a new branch for design improvements
-git checkout -b improvement/design
+- git checkout -b improvement/design
 
-# Make the desired changes to the code
+- Make the desired changes to the code
 
-# Add the changes to the staging area
+- Add the changes to the staging area
 git add .
 
-# Commit the changes with a clear message
+-  Commit the changes with a clear message
 git commit -m "Improved the layout of the about section"
 
-# Push the changes to the remote repository
+- Push the changes to the remote repository
 git push origin improvement/design
 
-# Open a Pull Request to have the changes reviewed
+- Open a Pull Request to have the changes reviewed
 
 ## License
 
